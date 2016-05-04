@@ -31,7 +31,7 @@ Pass a combination of the following flags to remove chunks.
 
 ```
 PNG_REMOVE_PLTE 1
-PNG_REMOVE_BKGD	 2
+PNG_REMOVE_BKGD	2
 PNG_REMOVE_CHRM 4
 PNG_REMOVE_DSIG 8
 PNG_REMOVE_GAMA 16
