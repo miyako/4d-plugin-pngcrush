@@ -83,6 +83,10 @@
     <ClCompile Include="pngcrush-1.8.1\pngtrans.c" />
     <ClCompile Include="pngcrush-1.8.1\pngwio.c" />
     <ClCompile Include="pngcrush-1.8.1\pngwtran.c" />
+    <ClCompile Include="pngcrush-1.8.1\pngrutil.c" />
+    <ClCompile Include="pngcrush-1.8.1\pngread.c" />
+    <ClCompile Include="pngcrush-1.8.1\pngpread.c" />
+    <ClCompile Include="pngcrush-1.8.1\pngget.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="4DPlugin.h">

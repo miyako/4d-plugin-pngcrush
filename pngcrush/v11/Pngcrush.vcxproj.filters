@@ -63,6 +63,9 @@
     <ClCompile Include="..\pngcrush-1.8.1\pngwrite.c" />
     <ClCompile Include="..\pngcrush-1.8.1\pngwtran.c" />
     <ClCompile Include="..\pngcrush-1.8.1\pngwutil.c" />
+    <ClCompile Include="..\pngcrush-1.8.1\pngget.c" />
+    <ClCompile Include="..\pngcrush-1.8.1\pngrutil.c" />
+    <ClCompile Include="..\pngcrush-1.8.1\pngread.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\4DPlugin.h">
