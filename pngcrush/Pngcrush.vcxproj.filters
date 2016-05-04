@@ -72,6 +72,17 @@
     <ClCompile Include="4D Plugin API\Classes\ARRAY_TIME.cpp">
       <Filter>Source\4D Plugin API\Classes\ARRAY</Filter>
     </ClCompile>
+    <ClCompile Include="pngcrush-1.8.1\pngrio.c" />
+    <ClCompile Include="pngcrush-1.8.1\pngrtran.c" />
+    <ClCompile Include="pngcrush-1.8.1\pngwrite.c" />
+    <ClCompile Include="pngcrush-1.8.1\pngmem.c" />
+    <ClCompile Include="pngcrush-1.8.1\png.c" />
+    <ClCompile Include="pngcrush-1.8.1\pngerror.c" />
+    <ClCompile Include="pngcrush-1.8.1\pngwutil.c" />
+    <ClCompile Include="pngcrush-1.8.1\pngset.c" />
+    <ClCompile Include="pngcrush-1.8.1\pngtrans.c" />
+    <ClCompile Include="pngcrush-1.8.1\pngwio.c" />
+    <ClCompile Include="pngcrush-1.8.1\pngwtran.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="4DPlugin.h">
@@ -140,6 +151,7 @@
     <ClInclude Include="4D Plugin API\Classes\ARRAY_TIME.h">
       <Filter>Source\4D Plugin API\Classes\ARRAY</Filter>
     </ClInclude>
+    <ClInclude Include="pngcrush-1.8.1\pngpriv.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="4D Plugin API\4DPluginAPI.def">

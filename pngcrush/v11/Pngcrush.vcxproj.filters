@@ -52,6 +52,17 @@
     <ClCompile Include="..\4D Plugin API\Classes\C_TEXT.cpp">
       <Filter>Source\4D Plugin API\Classes\C</Filter>
     </ClCompile>
+    <ClCompile Include="..\pngcrush-1.8.1\png.c" />
+    <ClCompile Include="..\pngcrush-1.8.1\pngerror.c" />
+    <ClCompile Include="..\pngcrush-1.8.1\pngmem.c" />
+    <ClCompile Include="..\pngcrush-1.8.1\pngrio.c" />
+    <ClCompile Include="..\pngcrush-1.8.1\pngrtran.c" />
+    <ClCompile Include="..\pngcrush-1.8.1\pngset.c" />
+    <ClCompile Include="..\pngcrush-1.8.1\pngtrans.c" />
+    <ClCompile Include="..\pngcrush-1.8.1\pngwio.c" />
+    <ClCompile Include="..\pngcrush-1.8.1\pngwrite.c" />
+    <ClCompile Include="..\pngcrush-1.8.1\pngwtran.c" />
+    <ClCompile Include="..\pngcrush-1.8.1\pngwutil.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\4DPlugin.h">
@@ -117,6 +128,7 @@
     <ClInclude Include="..\4D Plugin API\Classes\C_REAL.h">
       <Filter>Source\4D Plugin API\Classes\C</Filter>
     </ClInclude>
+    <ClInclude Include="..\pngcrush-1.8.1\pngpriv.h" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source">

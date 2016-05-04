@@ -54,40 +54,40 @@ typedef struct
 {
 	C_BLOB *blob;
 	png_uint_32 len;
-	int last_trial = 0;
+	int last_trial;
 } PNGOutData, *PNGOutDataPtr;
 
 typedef struct
 {
-	int blacken = 0;
-	int make_gray = 0;
-	int make_opaque = 0;
-	int make_8_bit = 0;
-	int reduce_palette = 0;
-	int plte_len = 0;
+	int blacken;
+	int make_gray;
+	int make_opaque;
+	int make_8_bit;
+	int reduce_palette;
+	int plte_len;
 } png_pixel, *png_pixelp;
 
 typedef struct
 {
-	int found_acTL_chunk = 0;
-	int found_tRNS = 0;
-	int found_sBIT = 0;
-	int found_sBIT_max = 0;
-	int found_sBIT_different_RGB_bits = 0;
-	int input_color_type = 0;
-	int found_any_chunk = 0;
-	int all_chunks_are_safe = 0;
-	int image_is_immutable = 0;
-	int found_gAMA = 0;
-	int found_color_bKGD = 0;
-	int found_cHRM = 0;
-	int found_hIST = 0;
-	int found_iCCP = 0;
-	int found_sRGB = 0;
-	int found_CgBI = 0;
-	double image_specified_gamma = 0;
-	int intent = 0;
-	int salvage = 0;
+	int found_acTL_chunk;
+	int found_tRNS;
+	int found_sBIT;
+	int found_sBIT_max;
+	int found_sBIT_different_RGB_bits;
+	int input_color_type;
+	int found_any_chunk;
+	int all_chunks_are_safe;
+	int image_is_immutable;
+	int found_gAMA;
+	int found_color_bKGD;
+	int found_cHRM;
+	int found_hIST;
+	int found_iCCP;
+	int found_sRGB;
+	int found_CgBI;
+	double image_specified_gamma;
+	int intent;
+	int salvage;
 } png_idat, *png_idatp;
 
 /* from pngcrush.c */
