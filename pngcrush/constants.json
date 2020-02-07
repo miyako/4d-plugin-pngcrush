@@ -1,0 +1,101 @@
+{
+	"themes": [
+		{
+			"theme": "Pngcrush options",
+			"constants": [
+                {
+                    "name": "PNG_REMOVE_PLTE",
+                    "value": "1:L"
+                },
+                {
+                    "name": "PNG_REMOVE_BKGD",
+                    "value": "2:L"
+                },
+                {
+                    "name": "PNG_REMOVE_CHRM",
+                    "value": "4:L"
+                },
+                {
+                    "name": "PNG_REMOVE_DSIG",
+                    "value": "8:L"
+                },
+                {
+                    "name": "PNG_REMOVE_GAMA",
+                    "value": "16:L"
+                },
+                {
+                    "name": "PNG_REMOVE_GIFG",
+                    "value": "32:L"
+                },
+                {
+                    "name": "PNG_REMOVE_GIFT",
+                    "value": "64:L"
+                },
+                {
+                    "name": "PNG_REMOVE_GIFX",
+                    "value": "128:L"
+                },
+                {
+                    "name": "PNG_REMOVE_HIST",
+                    "value": "256:L"
+                },
+                {
+                    "name": "PNG_REMOVE_ICCP",
+                    "value": "512:L"
+                },
+                {
+                    "name": "PNG_REMOVE_ITXT",
+                    "value": "1024:L"
+                },
+                {
+                    "name": "PNG_REMOVE_OFFS",
+                    "value": "2048:L"
+                },
+                {
+                    "name": "PNG_REMOVE_PHYS",
+                    "value": "4096:L"
+                },
+                {
+                    "name": "PNG_REMOVE_PCAL",
+                    "value": "8192:L"
+                },
+                {
+                    "name": "PNG_REMOVE_SBIT",
+                    "value": "16384:L"
+                },
+                {
+                    "name": "PNG_REMOVE_SCAL",
+                    "value": "32768:L"
+                },
+                {
+                    "name": "PNG_REMOVE_SRGB",
+                    "value": "65536:L"
+                },
+                {
+                    "name": "PNG_REMOVE_STER",
+                    "value": "131072:L"
+                },
+                {
+                    "name": "PNG_REMOVE_SPLT",
+                    "value": "262144:L"
+                },
+                {
+                    "name": "PNG_REMOVE_TEXT",
+                    "value": "524288:L"
+                },
+                {
+                    "name": "PNG_REMOVE_TIME",
+                    "value": "1048576:L"
+                },
+                {
+                    "name": "PNG_REMOVE_TRNS",
+                    "value": "2097152:L"
+                },
+                {
+                    "name": "PNG_REMOVE_ZTXT",
+                    "value": "4194304:L"
+                }
+            ]
+        }
+	]
+}
