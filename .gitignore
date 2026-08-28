@@ -1,1 +1,4 @@
 pngcrush/build/*
+build/*
+test/userPreferences.*
+test/Project/DerivedData/*
