@@ -354,7 +354,7 @@
 				);
 				LIBRARY_STYLE = Bundle;
 				MACOSX_DEPLOYMENT_TARGET = 11.5;
-				MARKETING_VERSION = 2.0.3;
+				MARKETING_VERSION = 2.0.4;
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
 				OTHER_REZFLAGS = "";
@@ -408,7 +408,7 @@
 				);
 				LIBRARY_STYLE = Bundle;
 				MACOSX_DEPLOYMENT_TARGET = 11.5;
-				MARKETING_VERSION = 2.0.3;
+				MARKETING_VERSION = 2.0.4;
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
 				OTHER_REZFLAGS = "";
@@ -460,7 +460,7 @@
 				);
 				LIBRARY_STYLE = Bundle;
 				MACOSX_DEPLOYMENT_TARGET = 11.5;
-				MARKETING_VERSION = 2.0.3;
+				MARKETING_VERSION = 2.0.4;
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
 				OTHER_REZFLAGS = "";
@@ -526,7 +526,7 @@
 				SDKROOT = macosx;
 				SYMROOT = "$(SRCROOT)/test/Plugins";
 				USER_HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/lib/pngcrush-1.8.11";
-				MARKETING_VERSION = 2.0.3;
+				MARKETING_VERSION = 2.0.4;
 				CURRENT_PROJECT_VERSION = 2.0.2;
 			};
 			name = Development;
@@ -578,7 +578,7 @@
 				SDKROOT = macosx;
 				SYMROOT = "$(SRCROOT)/test/Plugins";
 				USER_HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/lib/pngcrush-1.8.11";
-				MARKETING_VERSION = 2.0.3;
+				MARKETING_VERSION = 2.0.4;
 				CURRENT_PROJECT_VERSION = 2.0.2;
 			};
 			name = Deployment;
@@ -629,7 +629,7 @@
 				SDKROOT = macosx;
 				SYMROOT = "$(SRCROOT)/test/Plugins";
 				USER_HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/lib/pngcrush-1.8.11";
-				MARKETING_VERSION = 2.0.3;
+				MARKETING_VERSION = 2.0.4;
 				CURRENT_PROJECT_VERSION = 2.0.2;
 			};
 			name = Default;
