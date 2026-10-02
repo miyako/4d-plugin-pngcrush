@@ -28,6 +28,7 @@
 		D19BD8BE23EDAED80002EA4C /* pngcrush-1.8.11 in Resources */ = {isa = PBXBuildFile; fileRef = D19BD8BD23EDAED80002EA4C /* pngcrush-1.8.11 */; };
 		D19BD8C023EDAF360002EA4C /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = D19BD8BF23EDAF360002EA4C /* libz.tbd */; };
 		D19BD8C223EDAF730002EA4C /* libpng16.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D19BD8C123EDAF730002EA4C /* libpng16.a */; };
+		91D82BF256E9DD1B4CA681D4 /* constants.xlf in CopyFiles */ = {isa = PBXBuildFile; fileRef = D14D10DD1A03A8A5008B3411 /* constants.xlf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -38,6 +39,7 @@
 			dstSubfolderSpec = 7;
 			files = (
 				D134D4AC1A030BA0008D14EF /* manifest.json in CopyFiles */,
+				91D82BF256E9DD1B4CA681D4 /* constants.xlf in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
